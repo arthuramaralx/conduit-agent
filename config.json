@@ -1,0 +1,11 @@
+{
+  "servidor_url": "http://localhost:8000",
+  "token": "",
+  "nome": "",
+  "tags": [],
+  "slots": 2,
+  "poll_segundos": 5,
+  "workspace": "",
+  "auto_iniciar": true,
+  "agente_id": "331e2848-a56d-4971-a75b-6665311cf653"
+}
