@@ -1,2 +1,0 @@
-build/conduit-agent/ConduitAgent.pkg filter=lfs diff=lfs merge=lfs -text
-dist/ConduitAgent.exe filter=lfs diff=lfs merge=lfs -text
